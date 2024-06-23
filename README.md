@@ -6,11 +6,11 @@ Try these steps for HLS setup:
 
 
 1. create a vitis hls project
-* source files:
+-> source files:
 * vta.cc
 * vta.h
 
-TB files:
+-> TB files:
 * test_lib.cc
 * vta_test.cc
 * test_lib.h
