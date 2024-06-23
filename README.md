@@ -7,13 +7,13 @@ Try these steps for HLS setup:
 
 1. Create a vitis hls project
 * source files:
-* vta.cc
-* vta.h
+   * vta.cc
+   * vta.h
 
 * TB files:
-* test_lib.cc
-* vta_test.cc
-* test_lib.h
+   * test_lib.cc
+   * vta_test.cc
+   * test_lib.h
 
 3. Generate CFLAGS with below cmd (better to run from the dir of your proj file)
 
